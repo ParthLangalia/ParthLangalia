@@ -50,7 +50,7 @@ Outside of coding, you’ll find me:
 💼 [LinkedIn](https://www.linkedin.com/in/parth-langalia-251277256/)  
 📂 [Portfolio](https://yourwebsite.com)  
 📧 Email me at: [langaliaparth467@gmail.com](mailto:langaliaparth467@gmail.com)  
-💻 [GitHub](https://github.com/ParthLangalia)  
+[💻 GitHub](https://github.com/ParthLangalia)  
 
 ---
 
