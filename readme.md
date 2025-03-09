@@ -48,7 +48,7 @@ Outside of coding, you’ll find me:
 
 ## 📬 **Let's Connect!**
 💼 [LinkedIn](https://www.linkedin.com/in/parth-langalia-251277256/)  
-📂 [Portfolio](https://yourwebsite.com)  
+📂 [Portfolio](https://portfolio-eosin-nu-84.vercel.app/)  
 📧 Email me at: [langaliaparth467@gmail.com](mailto:langaliaparth467@gmail.com)  
 [💻 GitHub](https://github.com/ParthLangalia)  
 
